@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "tapas",
+  "project_id": "98719fb7-3c0d-4d32-a8fd-6d03922fa823"
+}
